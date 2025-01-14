@@ -20,6 +20,8 @@ docs/
 ├── index.html
 └── README.md
 ```
+Crie uma nova branch e nomeie como feat/community/seunomedeusuario. Exemplo: feat/community/falvojr;
+
 
 ## Tecnologias
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
